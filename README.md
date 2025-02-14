@@ -15,7 +15,7 @@ For instance, if you want an index of all words cited from the _Iliad_, enter 00
 
 Wait for the script to inform you that the words have been extracted.
 
-Your index is contained in a tab-delimited text file called "output.txt" located in the same directory as the script. It should contain your words and their individual locations in the work. Lemmata appear in the order in which they are encountered (from beginning to end).
+Your index is contained in a tab-delimited text file called "output.txt" located in the same directory as the script. It should contain your words and their individual locations in the work. Lemmata appear in the order in which they are encountered in a given work (from beginning to end).
 
 Note that all duplicates are automatically removed. This can be useful when the same word is cited twice in a given entry (e.g. once at the beginning in the section on morphology and later in the entry under a given sense).
 ## Credits
